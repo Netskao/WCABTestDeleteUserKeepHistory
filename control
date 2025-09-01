@@ -1,0 +1,9 @@
+Package: com.netskao.wcabtestdeleteuserkeephistory
+Name: WCABTestDeleteUserKeepHistory
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: WeChat Enable Delete Contact Keep Chat History, Only 8.0.62+
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
